@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/20.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ddc02ce5dd02d7795f348772211c23c2ef0df1f4">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/17.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aea9551c385cf074e6fad050736d0f0510b4a266">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/15.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="909c2c855862a126c85be7567243eaac6506ec8d">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/21.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0d53d88bb40d93d8512e1767d31ac72dc3ae751b">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/6.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fa4396e1fe3dd36731f2459c23cf90bfc3c021dd">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/7.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="317c261f8c4bbb4dbe8865cb1904fc6e5e36d707">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/12.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8ddd6217e57c925bd047711ac81ff5a8a90c449a">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/18.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0f09c77eb8907092e638864db23cebcb9215fb07">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/23.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b6c4eb2b73091c1f5ff29468ee81f0e5058445cd">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/16.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7446334b76843cfff09782cb165ea1e6c723b47">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/1.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8d60ee259101150926e414bf739b7a1846cd2f82">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/4.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e4eb7961b980f912eb29271bbededea31abb429">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/3.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1be5447a62f9262a3931137118453317e1e2746a">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/11.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5cc2a4cd67ed10c1d0564ec96c59c4807dd12c52">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/19.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b4e2f7802b4cde420de51896cc0ad05057192d66">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/2.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ca72534c7298160de42b9a19d30c15ae4355212">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/14.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b0a9ea4f1711e23325bba73d2e35af560d708be2">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/10.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a63d84931b1e8f959a6be615fc049519ea9d58d">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/8.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="273af2c5057ab95637ed07b982329ab62d3691c3">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/13.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a8ef8e0ebfa3ae5535b780ad1c0cf61852fcbc4a">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/processing-tools/runtime-deps/release/desugar_try_with_resources.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="786b13e9d4668484b418e1b356d7da6cb89fbd2f">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/9.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e70bb91d0f2a6a210603265f464de009433b2818">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/5.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="67383dce501fc130bcf4633ae45c50b006ec4869">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/24.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aad1abcaf53411a19b3c538656771ab3797106a1">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/desugar/release/22.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="62b2054d907ebf9f22e1f38fea40e27efa1d4318">
+        <dex dex="/Users/Kahlan/AndroidStudioProjects/Capstone39/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+
+</items>
